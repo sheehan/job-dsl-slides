@@ -1,0 +1,11 @@
+[
+    "index.md",
+    "configuration-as-code.html",
+    "jenkins-job-structure.html",
+    "demo-job-ui-configuration.html",
+    "dsl-example.html",
+    "dsl-playground.html",
+    "dsl-documentation.html",
+    "job-dsl-plugin-flow.html",
+    "patterns-for-reuse.html"
+]

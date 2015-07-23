@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Jenkins + Groovy with the Job DSL Plugin",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}

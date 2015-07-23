@@ -1,0 +1,8 @@
+{
+  "name": "jenkins-groovy-with-the-job-dsl-plugin",
+  "version": "0.0.1",
+  "dependencies": {
+    "reveal.js": "~3.1.0",
+    "highlightjs": "~8.5.0"
+  }
+}
