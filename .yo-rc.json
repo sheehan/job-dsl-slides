@@ -4,6 +4,8 @@
     "packageVersion": "0.0.1",
     "revealTheme": "black",
     "useSass": false,
-    "deployToGithubPages": false
+    "deployToGithubPages": true,
+    "githubUsername": "sheehan",
+    "githubRepository": "job-dsl-slides"
   }
 }
