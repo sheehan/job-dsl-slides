@@ -1,11 +1,17 @@
 [
-    "index.md",
+    "index.html",
     "configuration-as-code.html",
     "jenkins-job-structure.html",
     "demo-job-ui-configuration.html",
     "dsl-example.html",
     "dsl-playground.html",
     "dsl-documentation.html",
+    "auto-generated-docs.html",
     "job-dsl-plugin-flow.html",
-    "patterns-for-reuse.html"
+    "demo-create-a-seed-job.html",
+    "demo-job-dsl-gradle-example.html",
+    "testing.html",
+    "jenkins-chef-dsl-cookbook.html",
+    "demo-job-dsl-plugin.html",
+    "the-end.html"
 ]
