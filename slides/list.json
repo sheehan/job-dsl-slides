@@ -7,11 +7,11 @@
     "dsl-playground.html",
     "dsl-documentation.html",
     "auto-generated-docs.html",
+    "ide-support.html",
     "job-dsl-plugin-flow.html",
     "demo-create-a-seed-job.html",
     "demo-job-dsl-gradle-example.html",
     "testing.html",
     "jenkins-chef-dsl-cookbook.html",
-    "demo-job-dsl-plugin.html",
     "the-end.html"
 ]

@@ -1,19 +1,18 @@
 <h2>DSL Example</h2>
 <pre><code data-trim class="groovy">
-job('ci') {
-    description 'Build and test the app.'
+job('gr8 example') {
+    scm {
+        github 'sheehan/job-dsl-gradle-example'
+    }
     triggers {
       	scm 'H/5 * * * *'
     }
-    scm {
-        github 'sheehan/job-dsl-playground'
-    }
     steps {
-        gradle 'test'
+        gradle 'clean test'
     }
     publishers {
         archiveJunit 'build/test-results/**/*.xml'
-        mailer 'mr.sheehan@gmail.com'
+        extendedEmail 'mr.sheehan@gmail.com'
     }
 }
 </code></pre>
