@@ -1,0 +1,30 @@
+.conf-logo {
+    width: 250px;
+}
+
+.slides .footer {
+    position:absolute;
+    bottom: 50%;
+    left: -50%;
+}
+
+.reveal pre code {
+    max-height: 500px;
+}
+
+.reveal h1 {
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb;
+}
+
+.reveal section .logo-title {
+    vertical-align: middle;
+}
+
+.reveal section .logo-title img {
+    height: 150px;
+    width: auto;
+    border: none;
+    background: transparent;
+    margin: 0;
+    vertical-align: middle;
+}
