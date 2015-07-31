@@ -11,6 +11,7 @@
     "job-dsl-plugin-flow.html",
     "demo-create-a-seed-job.html",
     "demo-job-dsl-gradle-example.html",
+    "examples.html",
     "testing.html",
     "jenkins-chef-dsl-cookbook.html",
     "the-end.html"
